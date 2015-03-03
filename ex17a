@@ -1,0 +1,4 @@
+# My example created from scratch
+
+ from_file, to_file = ARGV
+ 
